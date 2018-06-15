@@ -1,5 +1,5 @@
 {
-	"name": "as-symbol",
+	"name": "as-key",
 	"version": "0.1.0",
 	"main": "as-key.js",
 	"keywords": ["object", "key", "symbol", "string", "convert"],
