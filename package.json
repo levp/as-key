@@ -1,0 +1,8 @@
+{
+	"name": "as-symbol",
+	"version": "0.1.0",
+	"main": "as-key.js",
+	"keywords": ["object", "key", "symbol", "string", "convert"],
+	"author": "Levi Perelman",
+	"license": "ISC"
+}
