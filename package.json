@@ -2,7 +2,21 @@
 	"name": "as-key",
 	"version": "0.1.0",
 	"main": "as-key.js",
-	"keywords": ["object", "key", "symbol", "string", "convert"],
 	"author": "Levi Perelman",
-	"license": "ISC"
+	"license": "ISC",
+	"keywords": [
+		"object",
+		"key",
+		"symbol",
+		"string",
+		"convert"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/levp/as-key.git"
+	},
+	"bugs": {
+		"url": "https://github.com/levp/as-key/issues"
+	},
+	"homepage": "https://github.com/levp/as-key#readme"
 }
